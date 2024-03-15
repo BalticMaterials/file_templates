@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/BalticMaterials_Logo_linksbuendig-1-600x113.webp" alt="Logo" width="600" height="113">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Python Script Collection</h3>
 
   <p align="center">
-    project_description
+    different python scripts sorted in folders in field of application
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -93,14 +93,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Python][Python.py]][Next-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,6 +225,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[Python-url]: https://www.python.org/
+[Python.py]: https://www.python.org/static/img/python-logo.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
