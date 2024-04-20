@@ -1,24 +1,28 @@
 /*H**********************************************************************
-* FILENAME :        Version_AGENT1_BM1_TEST_CODE .ino             DESIGN REF: FMCM00
+* FILENAME :        main_speedTest.cpp             DESIGN REF: FMCM00
 *
 * DESCRIPTION :
-*       File compression and decompression routines.
+*       Speed test for the cores of the ESP32. Testing multithreading on ESP32.
 *
 * PUBLIC FUNCTIONS :
-*       int     FM_CompressFile( FileHandle )
-*       int     FM_DecompressFile( FileHandle )
+*       void    create_artificial_Load()
+*       int     myFunction(int, int)
 *
 * NOTES :
-*       These functions are a part of the FM suite;
-*       See IMS FM0121 for detailed description.
+*       The naming of the prefixes of the variables and functions results from the variable type or
+*       the variable type of the return value.
+*       "c" stands for "char", an "s" for "short",
+*       "v" for "void", a "u" for "unsigned" and
+*       "x" for all non-standard types
 *
-*       Copyright A.N.Other Co. 1990, 1995.  All rights reserved.
+*       Copyright Tjark Ziehm 2024
 *
-* AUTHOR :    Arthur Other        START DATE :    16 Jan 99
+* AUTHOR :    Tjark Ziehm        START DATE :    20 April 2024
 *
 * CHANGES :
 *
-* REF NO  VERSION DATE    WHO     DETAIL
-* F21/33  A.03.04 22Jan99 JR      Function CalcHuffman corrected
+* Convention:   <major>.<minor>.<patch>
+* REF NO  VERSION DATE        WHO     DETAIL
+* F21/33  A.03.04 20April2024 TZ      add second Task for different Core
 *
 *H*/
