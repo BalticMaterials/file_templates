@@ -17,11 +17,11 @@
 **       "v" for "void", a "u" for "unsigned" and
 **       "x" for all non-standard types
 **
-** AUTHOR :    Tjark Ziehm        START DATE :    06 Juli 2024
-** Copyright:  Tjark Ziehm, 2024
-** Convention:   <major>.<minor>.<patch>
+** AUTHOR :            Tjark Ziehm        START DATE :    06 Juli 2024
+** Copyright&Licence:  Tjark Ziehm, 2024
+** Convention:         <major>.<minor>.<patch>
 ** CHANGES :
-**            v.0.0.1 add and test functions to read&seperate the char elements in array from Networktime
+**            v.0.0.1 add and test functions to read&seperate the char elements in array Networktime
 **            v.1.0.0 add the converter and the concationation function to get as result integers
 **            v.1.1.0 seperate the code to implementable feature
 **
